@@ -4,4 +4,3 @@ langchain-openai
 sqlalchemy
 pymysql
 
-OPENAI_API_KEY=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
